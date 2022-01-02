@@ -25,8 +25,6 @@ Currently looking for Data Analyst/Data Scientist Roles
 - **Interests:**
   - Sports :soccer: :basketball: :football:
   - Science :dna:
-  - Music
-  - Books
 
 ## Connect
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andy-pottebaum/)
